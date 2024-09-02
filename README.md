@@ -2,7 +2,7 @@
 1) Folder entitled "FPS" is the version of the same game I made with taking the reference form the video from Youtube channel of FreeCodeCamp.
 2) The the 2nd folder is the bunch of the original project created by the developer/ tutor of the video. Link to the same is :-  https://github.com/beaucarnes/unity_fps/tree/master/complete_project
 
-Below is the video of the my project. It starts at 0:15, so have a bit patience for 15 seconds after starting the below video 😅😅. Also make sure sound is on for better experience.
+Below is the video of the my project. It starts at 0:15, so have a bit patience for 15 seconds after starting the below video 😅😅. Also make sure sound is on for better realistic experience.
 
 
 https://user-images.githubusercontent.com/60461421/129842592-3d075929-4aa2-4898-b5eb-d2833c825489.mp4
