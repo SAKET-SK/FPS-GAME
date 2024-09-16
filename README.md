@@ -10,4 +10,4 @@ https://user-images.githubusercontent.com/60461421/129842592-3d075929-4aa2-4898-
 The game is made considering all the thing one needs in an FPS game. It contains Enemies such as Cannibals and Boars who Patrol randomly and will attack player. All the C# scripts are inside the project and are well commented. <br>
 While taking a look at video, have a look at health and stamina bar, it increases and decreases as it happens in normal FPS games. <br>
 Sounds are added and Animation events are created for the same. <br>
-This is just a prototype game made as a freelance project, more improvements can be due in upcomming months like UI, characterisation, etc. <br>
+This is just a prototype game made as a freelance project, more improvements can be due in upcomming months like UI, characterisation, etc. Probably a Story Arc too. <br>
